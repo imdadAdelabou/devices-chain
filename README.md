@@ -1,24 +1,9 @@
-# device-chain
+# Device-chain
 
-## Project setup
-```
-yarn install
-```
+## Description
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+### EN
+> A web application that allows motorcyclists to register their motorcycle and report the loss of the latter in case of theft, thus facilitating the search for the motorcycle by the police.
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### FR 
+> Une application web qui permet a des motocyclistes de faire enregistrer  leur moto et de signaler la perte de se dernier lors d'un vol facilitant ainsi la recherche de cette moto par les policiers .
